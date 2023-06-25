@@ -13,7 +13,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         resConfigs "eu", "fr"
-        resValue "string", "app_creator_name", "PR12_Saaya_21.102"
+        resValue "string", "app_creator_name", "Pr_12_Saaya_21.102"
         resValue "string", "app_creator_email", "auzannasaaa@gmail.com"
     }
 
